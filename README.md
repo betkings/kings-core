@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://kings.ag">
-<img src="https://kings.ag/assets/images/snowlion-light.svg" width="600px" height="600px">
+<img src="https://kings.ag/assets/images/snowlion-dark.svg" width="600px" height="600px">
 </a>
 </p>
 
